@@ -40,7 +40,7 @@
 1. Клонирование репозитория:
 ```bash
 git clone <repository-url>
-cd go-2024-2025-2
+cd Banking_API
 ```
 
 2. Установка зависимостей:
