@@ -185,7 +185,7 @@ go run cmd/api/main.go
   {
     "credit_id": 1,
     "amount": 1000.00,
-    "due_date": "2024-05-01T00:00:00Z"
+    "due_date": "2026-06-06T00:00:00Z"
   }
   ```
 
